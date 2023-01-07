@@ -23,7 +23,7 @@ const Intro: React.FC = () => {
 	return (
 		<div
 			style={{ backgroundImage: "url('/main-bg.png')" }}
-			className='w-full h-auto scroll-smooth pb-[3.25rem] '
+			className='w-full h-auto scroll-smooth pb-[3.25rem] bg-no-repeat '
 		>
 			<div className='flex flex-row justify-between pt-2'>
 				<img src='/favicon.png' alt='' width={200} />
