@@ -1,11 +1,9 @@
-<font size=6>
-<b>
-Submission for the design of the VIT Student welfare office.
-<hr>
-</b>
+
+
+# Submission for the design of the VIT Student welfare office.
 <font size=5>
 
-This is the design and the basic template of the VIT Student Welfare Website which can be found at <a href="">this</a> domain.The technologies used to create this website are:
+This is the design and the basic template of the VIT Student Welfare Website which can be found at <a href="https://vit.ac.in/campuslife/studentswelfare">this</a> domain.The technologies used to create this website are:
 
 - React JS
 - Tailwind CSS
