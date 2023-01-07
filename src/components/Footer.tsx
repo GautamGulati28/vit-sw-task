@@ -136,9 +136,6 @@ const Footer: React.FC = () => {
 							<li>Hotels In Vellore</li>
 						</a>
 						<a href='#' className='hover:underline'>
-							<li>Hotels In Vellore</li>
-						</a>
-						<a href='#' className='hover:underline'>
 							<li>Campus Life</li>
 						</a>
 					</ul>
