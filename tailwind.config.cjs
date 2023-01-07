@@ -5,8 +5,11 @@ module.exports = {
 		extend: {
 			fontFamily: {
 				poppins: ["Poppins", "sans-serif"]
+			},
+			transitionProperty: {
+				width: "width"
 			}
-		}
-	},
-	plugins: []
+		},
+		plugins: []
+	}
 }
