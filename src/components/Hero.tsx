@@ -3,7 +3,7 @@ import React from "react"
 const Hero: React.FC = () => {
 	return (
 		<div className='pb-10 bg-white flex lg:flex-row pt-[5rem] lg:pt-[10rem] justify-center gap-[2rem] lg:gap-[5rem] md:flex-col flex-col overflow-hidden align-center'>
-			<h1 className='pb-5 font-bold text-black lg:text-6xl md:text-4xl text-3xl tracking-[0.13em] leading-[1.5em] text-center lg:text-left'>
+			<h1 className='lg:pt-[10rem] pb-5 font-bold text-black lg:text-6xl md:text-4xl text-3xl tracking-[0.13em] leading-[1.5em] lg:leading-[6rem] text-center lg:text-left'>
 				OFFICE OF <br /> STUDENTS’ <br />
 				WELFARE:
 			</h1>
