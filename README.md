@@ -16,6 +16,14 @@ The design for this website is created by <a href="https://github.com/GautamGula
 <br>
 The website is live can can be accessed through <a href="https://vit-sw-task-clone.vercel.app">this</a> link
 
+
+ 
+This a preview for the webiste
+<br>
+![VIT-SW-TASK](https://user-images.githubusercontent.com/101964337/211210388-ff882071-fc5d-4f1a-8b5d-88f4e36f3554.png)
+<br>
 <i>
-This is a team submission that consists of two memebers.
+This is a team submission that consists of two members.
+
+
 </b></i>
