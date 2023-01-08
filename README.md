@@ -1,6 +1,6 @@
 
 
-# Submission for the design of the VIT Student welfare office.
+# Submission for the cloud team of the VIT Student welfare office.
 <font size=5>
 
 This is the design and the basic template of the VIT Student Welfare Website which can be found at <a href="https://vit.ac.in/campuslife/studentswelfare">this</a> domain.The technologies used to create this website are:
